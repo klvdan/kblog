@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'home_title' => '牧曇りの人',
+    'locale' => '言語',
+    'en' => 'English',
+    'zh' => '简体中文',
+    'ja' => '日本語',
+    'home' => 'ホームページ',
+    'article' => 'アーティクル',
+    'category' => '分類',
+    'tag' => 'タッグ',
+    'timeline' => 'タイムライン',
+    'dashboard' => 'サイト管理',
+    'about' => '紹介',
+    'login' => '登録',
+    'email_address' => 'メールアドレス',
+    'password' => 'パスワード',
+    'remeber_me' => '次回、自動的に登録させる',
+    'user' => 'ユーザー',
+    'search' => '検索',
+    'article_chart_title' => 'アーティクル 統計',
+    'article_chart_legend' => '産出',
+    'article_unit' => '(つ)',
+];

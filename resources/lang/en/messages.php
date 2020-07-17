@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'home_title' => 'Kelvin\'s Blog',
+    'locale' => 'Language',
+    'en' => 'English',
+    'zh' => '简体中文',
+    'ja' => '日本語',
+    'home' => 'Home',
+    'article' => 'Article',
+    'category' => 'Category',
+    'tag' => 'Tag',
+    'timeline' => 'Timeline',
+    'dashboard' => 'Dashboard',
+    'about' => 'About',
+    'login' => 'Login',
+    'email_address' => 'Email Address',
+    'password' => 'Password',
+    'remeber_me' => 'Remeber Me!',
+    'user' => 'User',
+    'search' => 'Search',
+    'article_chart_title' => 'Article Stastics',
+    'article_chart_legend' => 'Produce',
+    'article_unit' => 'Articles',
+];

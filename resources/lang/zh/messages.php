@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'home_title' => '牧云客',
+    'locale' => '语言',
+    'en' => 'English',
+    'zh' => '简体中文',
+    'ja' => '日本語',
+    'home' => '首页',
+    'article' => '文章',
+    'category' => '分类',
+    'tag' => '标签',
+    'timeline' => '时间线',
+    'dashboard' => '后台',
+    'about' => '关于',
+    'login' => '登录',
+    'email_address' => '邮箱',
+    'password' => '密码',
+    'remeber_me' => '允许下次自动登录！',
+    'user' => '用户',
+    'search' => '搜索',
+    'article_chart_title' => '文章统计',
+    'article_chart_legend' => '产出',
+    'article_unit' => '(篇)',
+];
